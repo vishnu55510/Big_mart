@@ -41,19 +41,7 @@ The Big Market Sales Prediction project aims to predict sales for a big market b
    - Built a generalized model with low bias and low variance by fine-tuning hyperparameters and optimizing model architecture.
    - Ensured that the model is robust and capable of making accurate predictions on unseen data.
 
-## Usage
-To replicate the Big Market Sales Prediction project, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vishnu55510/big-market-sales-prediction.git
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install numpy pandas matplotlib seaborn scikit-learn
-   ```
-3. Navigate to the project directory and run the Jupyter notebooks or Python scripts to execute the data preprocessing, model building, and evaluation steps.
 
-## Contributing
 Contributions to this project are welcome. If you have suggestions for improvements or would like to add new features, please open an issue or submit a pull request.
 
 
